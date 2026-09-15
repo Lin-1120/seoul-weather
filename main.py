@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 import pandas as pd
 import altair as alt
@@ -176,4 +176,4 @@ with st.expander("📋 연도별 평균기온 데이터 보기"):
         display_data,
         use_container_width=True
     )
-```
+
